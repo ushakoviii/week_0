@@ -19,6 +19,4 @@ const StyledBody = styled.body`
   justify-content: center; 
   align-items: center;
 `
-const StyledTest = styled.div `
-`
 export default App;
