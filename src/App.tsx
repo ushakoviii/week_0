@@ -17,7 +17,6 @@ const StyledBody = styled.body`
   height: 100vh;
   display: flex;
   justify-content: center; 
-  align-items: center;  
-  font-family: Arial;
+  align-items: center;
 `
 export default App;
