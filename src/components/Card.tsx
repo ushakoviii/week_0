@@ -5,7 +5,7 @@ export function Card() {
     return (
         <StyledCard>
             <StyledImage src={image}/>
-            <StyledHeadText>Headline</StyledHeadText>
+            <StyledHeadText>HeadLine</StyledHeadText>
             <StyledText>Faucibus. Faucibus. Sit sit sapien <br/>sit tempusrisu ut. Sit molestie ornare in venen.</StyledText>
             <StyledBtn primary>See more</StyledBtn>
             <StyledBtn outlined>Save</StyledBtn>
